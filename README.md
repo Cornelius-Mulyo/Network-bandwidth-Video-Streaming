@@ -69,21 +69,20 @@ All reported metrics are in-sample. Log-Log model predictions were evaluated on 
 
 | Multiple Linear Regression | Log-Log Regression |
 |:---:|:---:|
-| ![Linear Regression](figures/linear_regression.png) | ![Log-Log Regression](figures/log_log_regression.png) |
+| ![Linear Regression](figures/Linear_Regression.png) | ![Log-Log Regression](figures/Log_Log_Regression.png) |
 
 ### Quadratic Regression
 
-![Quadratic Regression](figures/quadratic_regression.png)
+![Quadratic Regression](figures/Quadratic_Regression.png)
 
 ### Residual Analysis
 
-![Residual Analysis](figures/residual_analysis.png)
+![Residual Analysis](figures/Residual_Analysis.png)
 
 The residual plots compare observed and predicted startup
 times across bandwidth levels. The Log-Log model shows
 fewer noticeable residual patterns and achieves the
 lowest in-sample RMSE among the three models.
-
 
 ## Key Findings
 
