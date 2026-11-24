@@ -1,5 +1,5 @@
-# network-bandwidth-video-streaming
-Statistical analysis of network bandwidth and video streaming performance using regression modeling, Python, and a Raspberry Pi-based media server.
+# Network-Bandwidth-Video-Streaming
+Senior research in Computer Science and Applied Mathematics, exploring video streaming performance through statistical modeling, Python, and Raspberry Pi. Achieved 36% lower in-sample RMSE compared with the linear baseline.
 
 # Network Bandwidth and Video Streaming Performance
 
